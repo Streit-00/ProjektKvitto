@@ -15,6 +15,7 @@ using System.Windows.Shapes;
 
 namespace ProjektKvitto
 {
+    //commentsumos77/ProjektKvitto
     public partial class MainWindow : Window
     {
         public MainWindow()
