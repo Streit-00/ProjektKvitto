@@ -25,6 +25,8 @@ namespace ProjektKvitto
 
         private void Start()
         {
+            
+            //comment
             string productName = "Dator";
             string productDescription = "Contains a CPU, and a whole lot of other stuff.";
             string productPrice = "1500";
